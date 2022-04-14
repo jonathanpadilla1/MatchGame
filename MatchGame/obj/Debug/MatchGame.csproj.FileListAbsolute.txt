@@ -1,0 +1,15 @@
+C:\Users\EQUIPO\Desktop\MatchGame-master\MatchGame\bin\Debug\MatchGame.exe.config
+C:\Users\EQUIPO\Desktop\MatchGame-master\MatchGame\bin\Debug\MatchGame.exe
+C:\Users\EQUIPO\Desktop\MatchGame-master\MatchGame\bin\Debug\MatchGame.pdb
+C:\Users\EQUIPO\Desktop\MatchGame-master\MatchGame\obj\Debug\MatchGame.csproj.AssemblyReference.cache
+C:\Users\EQUIPO\Desktop\MatchGame-master\MatchGame\obj\Debug\MainWindow.g.cs
+C:\Users\EQUIPO\Desktop\MatchGame-master\MatchGame\obj\Debug\App.g.cs
+C:\Users\EQUIPO\Desktop\MatchGame-master\MatchGame\obj\Debug\MatchGame_MarkupCompile.cache
+C:\Users\EQUIPO\Desktop\MatchGame-master\MatchGame\obj\Debug\MatchGame_MarkupCompile.lref
+C:\Users\EQUIPO\Desktop\MatchGame-master\MatchGame\obj\Debug\MainWindow.baml
+C:\Users\EQUIPO\Desktop\MatchGame-master\MatchGame\obj\Debug\MatchGame.g.resources
+C:\Users\EQUIPO\Desktop\MatchGame-master\MatchGame\obj\Debug\MatchGame.Properties.Resources.resources
+C:\Users\EQUIPO\Desktop\MatchGame-master\MatchGame\obj\Debug\MatchGame.csproj.GenerateResource.cache
+C:\Users\EQUIPO\Desktop\MatchGame-master\MatchGame\obj\Debug\MatchGame.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\MatchGame-master\MatchGame\obj\Debug\MatchGame.exe
+C:\Users\EQUIPO\Desktop\MatchGame-master\MatchGame\obj\Debug\MatchGame.pdb
